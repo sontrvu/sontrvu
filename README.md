@@ -6,7 +6,6 @@
 
 
 ### 👨🏻‍💻 **About Me**
-<br/>
 
 📈 &nbsp; Experienced software engineer with a passion for building high-performance and scalable systems.
 
@@ -59,7 +58,7 @@
 
 ### 🫱🏼‍🫲🏽 **Connect With Me**
 
-[![LinkedIn](https://img.shields.io/badge/Son%20Vu-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/son-vu-418a7a18b/)
+[![LinkedIn](https://img.shields.io/badge/Son%20Vu-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/sontrvu)
 
 <div align="center">
   <img  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
