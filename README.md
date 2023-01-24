@@ -33,6 +33,7 @@
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
 ![Powershell](https://img.shields.io/badge/Powershell-2CA5E0?style=flat&logo=powershell&logoColor=white)
 
+![iOS](https://img.shields.io/badge/iOS-%23000000.svg?style=flat&logo=apple&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 
