@@ -22,12 +22,9 @@
 
 🦾 &nbsp; Committed to continuous learning and professional development.
 
-<br/>
-
 <img alt="Night Coding" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="380" style="border-radius:1em" align="right"/>
 
 ### 🛠 **Tech Stack**
-<br/>
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
@@ -59,10 +56,8 @@
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)
 
-<br/>
 
 ### 🫱🏼‍🫲🏽 **Connect With Me**
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/Son%20Vu-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/son-vu-418a7a18b/)
 
