@@ -5,7 +5,7 @@
 <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-### 👨🏻‍💻 **About Me**
+### 👨🏻‍💻 &nbsp; **About Me**
 
 📈 &nbsp; Experienced software engineer with a passion for building high-performance and scalable systems.
 
@@ -25,7 +25,7 @@
 <img alt="Night Coding" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="380" style="border-radius:1em" align="right"/>
 -->
   
-### 🛠 **Tech Stack**
+### 🛠 &nbsp; **Tech Stack**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
@@ -58,7 +58,7 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)
 
 
-### 🫱🏼‍🫲🏽 **Connect With Me**
+### 🫱🏼‍🫲🏽 &nbsp; **Connect With Me**
 
 [![LinkedIn](https://img.shields.io/badge/Son%20Vu-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/sontrvu)
 
