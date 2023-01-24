@@ -21,8 +21,10 @@
 
 🦾 &nbsp; Committed to continuous learning and professional development.
 
+<!--- Does not look as good as I thought
 <img alt="Night Coding" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="380" style="border-radius:1em" align="right"/>
-
+-->
+  
 ### 🛠 **Tech Stack**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
